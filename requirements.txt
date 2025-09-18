@@ -1,0 +1,11 @@
+annotated-types==0.7.0
+asgiref==3.9.1
+Django==3.2
+djangorestframework==3.12.4
+pydantic==1.10.12
+pydantic_core==2.33.2
+pytz==2025.2
+SQLAlchemy==2.0.43
+sqlparse==0.5.3
+typing-inspection==0.4.1
+typing_extensions==4.15.0
